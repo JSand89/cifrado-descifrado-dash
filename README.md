@@ -22,10 +22,6 @@ La aplicación cuenta con tres vistas principales:
 3. **Ventana de Descifrado**  
    Invierte el proceso anterior para recuperar el número original.
 
-⚠️ Las capturas de pantalla pueden ser añadidas aquí:
-- ![Pantalla principal](./screenshots/main_view.png)
-- ![Cifrado](./screenshots/encrypt_view.png)
-- ![Descifrado](./screenshots/decrypt_view.png)
 
 ---
 
