@@ -41,6 +41,22 @@ A continuación, se presentan ejemplos de prueba que demuestran el funcionamient
 
 Las pruebas fueron realizadas a través del navegador usando la interfaz proporcionada por la aplicación Dash.
 
+### 🔓 Home
+
+![Home](./screenshots/home.png)
+
+
+### 🧪 Ejemplo: Cifrado
+
+![Cifrado funcionando](./screenshots/cifrado.png)
+
+---
+
+### 🔓 Ejemplo: Descifrado
+
+![Descifrado funcionando](./screenshots/descifrado.png)
+
+
 ---
 
 ## ✅ Cómo ejecutar

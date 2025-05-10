@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.log
+
+# Entorno virtual
+venv/
+
+# VS Code settings (opcional)
+.vscode/
+
